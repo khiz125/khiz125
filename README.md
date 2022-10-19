@@ -1,6 +1,6 @@
 ## 👋 Kenichiro Hirose 
 
-`Software Engineer / Marketing Researcher`
+`Software Engineer / Marketing Specialist`
 
 I'm software engineer and marketing researcher. I like thinking about UI, UX or design, and developing applications for those who are not really tech savvy. I'm also interested in field of artificial intelligence and machine learning.
 
