@@ -2,7 +2,7 @@
 
 `Software Engineer / Marketing Specialist`
 
-I'm software engineer and marketing researcher. I like thinking about UI, UX or design, and developing applications for those who are not really tech savvy. I'm also interested in field of artificial intelligence and machine learning.
+I'm software engineer and marketing researcher. I like to think about UI and UX design, developing applications for those who are not really tech savvy. I'm also interested in field of artificial intelligence and machine learning.
 
 <a href="https://github.com/khiz125/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiz125&show_icons=true&layout=compact" />
