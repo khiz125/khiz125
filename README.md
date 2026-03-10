@@ -4,7 +4,7 @@
 
 I'm software engineer. I like to think about UI and UX design, developing applications for those who are not really tech savvy. I'm also interested in field of artificial intelligence and machine learning.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khiz125)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiz125&layout=compact)
 
 ## Experience
 
